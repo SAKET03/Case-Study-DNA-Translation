@@ -10,4 +10,4 @@ I would be using the NCBI which is the National Center for Biotechnology Informa
 
 Link: https://www.ncbi.nlm.nih.gov/nuccore/NM_207618.2
 
-This was a part of HarvardX PH526x Using Python for Research course provided by [https://www.edx.org/course/using-python-for-research?index=product&queryID=26b8b8f94afdd66c4d2a1b18b243abce&position=2](edx).
+This was a part of HarvardX PH526x Using Python for Research course provided by  [edx](https://www.edx.org/course/using-python-for-research?index=product&queryID=26b8b8f94afdd66c4d2a1b18b243abce&position=2) .
